@@ -1,4 +1,4 @@
-// https://br.spoj.com/problems/SOMA/
+// https://br.spoj.com/problems/QUADRAD2/
 
 guard let a = readLine() else { 
     fatalError("bad input") 

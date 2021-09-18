@@ -1,4 +1,4 @@
-https://br.spoj.com/problems/PEDAGIO1/
+// https://br.spoj.com/problems/PEDAGIO1/
 
 var t = 0
 let valuesOne = readLine()!.split(separator: " ").map { Int($0)! }
