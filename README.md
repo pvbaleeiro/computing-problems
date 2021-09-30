@@ -1,8 +1,8 @@
-# Solving Spoj Problems 
+# Solving Computing Problems 
 
 <br>
 <details>
-  <summary>🛠️ C and Swift</summary>
+  <summary>Spoj BR: 🛠️ C and Swift</summary>
 <br>
 <a href="https://br.spoj.com/problems/SOMA/">SOMA</a>
 <br>
